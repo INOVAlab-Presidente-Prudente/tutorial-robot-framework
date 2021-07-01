@@ -17,7 +17,7 @@ alt="Video com o conceito de identificadores ou seletores do Robot" width="240" 
 
 ## Robot Framework - Rodando Códigos
 
-<a href="https://www.youtube.com/watch?v=i0_ovETZd8Q" target="_blank"><img src="https://i9.ytimg.com/vi/i0_ovETZd8Q/mq2.jpg?sqp=CIyQ2IYG&rs=AOn4CLBDQXHPjXshGu3l9VWJjy6N8CXVmQ" 
+<a href="https://www.youtube.com/watch?v=i0_ovETZd8Q" target="_blank"><img src="http://img.youtube.com/vi/i0_ovETZd8Q/0.jpg" 
 alt="Video com as instruções de como se rodar códigos em Robot" width="240" height="180" border="10" /></a>
 
 ## Exemplo 1 - Aplicação Web

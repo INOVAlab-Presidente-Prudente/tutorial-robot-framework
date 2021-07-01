@@ -1,6 +1,10 @@
-# Tutorial sobre o Robot Framework
+# Tutorial: Testes Automatizados com o Robot Framework
+
+Este tutorial foi elaborado pelo Laboratório de Teste de Software (InovaLab) da Fundação InovaPrudente. Participaram da elaboração os bolsistas David Hiromi Ono e Pedro Henrique Zago Costa e o docente André Takeshi Endo (UTFPR-CP).
 
 ## Introdução
+
+Breve introdução sobre o material do tutorial e contexto de seu uso. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Fcwk5aK0erE" target="_blank"><img src="http://img.youtube.com/vi/Fcwk5aK0erE/0.jpg" 
 alt="Video com a introdução do tutorial" width="240" height="180" border="10" /></a>   

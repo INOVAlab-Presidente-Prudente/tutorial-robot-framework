@@ -2,6 +2,8 @@
 
 Este tutorial foi elaborado pelo Laboratório de Teste de Software (InovaLab) da Fundação InovaPrudente. Participaram da elaboração os bolsistas David Hiromi Ono e Pedro Henrique Zago Costa e o docente André Takeshi Endo (UTFPR-CP).
 
+Dúvidas, comentários ou sugestões sobre este material, enviar um e-mail para contato@inovaprudente.com.br
+
 ## Introdução
 
 Breve introdução sobre o material do tutorial e o contexto de seu uso. 
@@ -32,10 +34,9 @@ alt="Video com as instruções de como se rodar códigos em Robot" width="240" h
 
 ## Exemplo 1 - Aplicação Web
 
-Nesta parte, mostramos como testar uma aplicação web. Para isso, usamos como exemplo a aplicação open source chamada PetClinic. 
+Nesta parte, mostramos como testar uma aplicação web. Para isso, usamos como exemplo a aplicação open source chamada PetClinic (https://github.com/spring-projects/spring-petclinic). 
 
-   - Website do projeto exemplo Pet Clinic: https://github.com/spring-projects/spring-petclinic
-   - Descrição dos pré-requisitos ao usar o Robot: [[link]](seleniumExemplo)
+   - Instruções para replicar este exemplo são encontradas no link a seguir [[link]](seleniumExemplo)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JEal7WBai2I" target="_blank"><img src="http://img.youtube.com/vi/JEal7WBai2I/0.jpg" 
 alt="Video com um exemplo de uso em uma aplicação web" width="240" height="180" border="10" /></a>      
@@ -44,22 +45,28 @@ alt="Video com um exemplo de uso em uma aplicação web" width="240" height="180
 
 Nesta parte, mostramos como testar um aplicativo móvel. Para isso, usamos como exemplo o app open source chamado Activity Dairy.
 
-   - Repositorio com o Aplicativo e o código: [[link]](appiumExemplo) 
+   - Instruções para replicar este exemplo são encontradas no link a seguir [[link]](appiumExemplo) 
 
 <a href="https://www.youtube.com/watch?v=OXUPrMlDFu8" target="_blank"><img src="https://img.youtube.com/vi/OXUPrMlDFu8/0.jpg" 
 alt="Video com um exemplo de uso em uma aplicativo móvel" width="240" height="180" border="10" /></a>    
 
 ## Identificação de seletores - Aplicação Web
 
-<a href="https://www.youtube.com/watch?v=OcF1ty7hPjQ" target="_blank"><img src="https://i9.ytimg.com/vi/OcF1ty7hPjQ/mq2.jpg?sqp=COCN2IYG&rs=AOn4CLDiuEulNX3T2Ln95OVZy3u835ghXw" 
+Usando o exemplo, mostramos como implementar seletores para aplicações web.
+
+<a href="https://www.youtube.com/watch?v=OcF1ty7hPjQ" target="_blank"><img src="https://img.youtube.com/vi/OcF1ty7hPjQ/0.jpg" 
 alt="Video mostrando como encontrar seletores web e transformá-los em código Robot" width="240" height="180" border="10" /></a>
 
 ## Identificação de seletores - Aplicativo Móvel
-   - Link para a video (youtube)
+
+Usando o exemplo, mostramos como implementar seletores para aplicações web.
+
+   - Link para a video no youtube - TODO
 
 
-## Case do InovaLab - Construa.app
-   - Notícia publicada no site da InovaPrudente [[link]](https://inovaprudente.com.br/noticias/inovalab-finaliza-seu-primeiro-case-de-teste-de-software.html)
+## Case Realizado no InovaLab - Aplicativo Construa.app
+
+Notícia completa descrevendo o case está publicada no site da InovaPrudente [[link]](https://inovaprudente.com.br/noticias/inovalab-finaliza-seu-primeiro-case-de-teste-de-software.html).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ulvqlNzf0AI" target="_blank"><img src="http://img.youtube.com/vi/ulvqlNzf0AI/0.jpg" 
 alt="Video com o case da construa" width="240" height="180" border="10" /></a>

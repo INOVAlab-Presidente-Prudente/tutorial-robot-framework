@@ -63,7 +63,8 @@ alt="Video mostrando como encontrar seletores web e transformá-los em código R
 
 Usando o exemplo, mostramos como implementar seletores para aplicativos mobile.
 
-   - Link para a video no youtube - TODO
+<a href="https://www.youtube.com/watch?v=KeaYUGgOBnI" target="_blank"><img src="https://img.youtube.com/vi/KeaYUGgOBnI/0.jpg" 
+alt="Video mostrando como encontrar seletores web e transformá-los em código Robot" width="240" height="180" border="10" /></a>
 
 
 ## Case Realizado no InovaLab - Aplicativo Construa.app

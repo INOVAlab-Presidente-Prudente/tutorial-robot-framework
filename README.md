@@ -4,6 +4,8 @@ Este tutorial foi elaborado pelo Laboratório de Teste de Software (InovaLab) da
 
 Dúvidas, comentários ou sugestões sobre este material, enviar um e-mail para contato@inovaprudente.com.br
 
+Se você está em uma empresa de Presidente Prudente-SP e gostaria do nosso apoio na implantação de uma solução com testes automatizados de software, entre em contato conosco!
+
 ## Introdução
 
 Breve introdução sobre o material do tutorial e o contexto de seu uso. 
@@ -59,7 +61,7 @@ alt="Video mostrando como encontrar seletores web e transformá-los em código R
 
 ## Identificação de seletores - Aplicativo Móvel
 
-Usando o exemplo, mostramos como implementar seletores para aplicações web.
+Usando o exemplo, mostramos como implementar seletores para aplicativos mobile.
 
    - Link para a video no youtube - TODO
 
